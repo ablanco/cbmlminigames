@@ -1,0 +1,1 @@
+A series of easy and (meant to be) funny games written in Lua and prepared to be used in a PSP that can use homebrew. The topic of the games must be somehow related to the webcomic CBML, by using characters or stories from the comics.
